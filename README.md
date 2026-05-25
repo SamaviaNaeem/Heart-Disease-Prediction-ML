@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction with Predictive Analytics and Machine Learning
 
 ## About the Project
 This project focuses on building a predictive analytics and machine learning pipeline for heart disease prediction using healthcare data. The objective of the project is to analyze patient health-related attributes and predict the likelihood of heart disease using multiple machine learning algorithms.
